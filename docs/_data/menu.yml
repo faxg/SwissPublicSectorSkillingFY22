@@ -1,0 +1,27 @@
+- label: HackZurich 2021 - SwissRe / Microsoft
+  items:
+    - name: The Challenge
+      link: /the_challenge
+      items:
+        - name: Further information
+          link: /resources
+        - name: Goals and Non-Goals
+          link: /goals_non_goals
+        - name: Judging criteria
+          link: /criteria
+
+    - name: Workshops and Talks
+      link: /workshop
+
+
+    - name: Technical Resources
+      link: /azure
+      items:
+        - name: Azure Services
+          link: /azure
+        - name: Datasets and APIs
+          link: /data
+    - name: Jobs and Programs
+      link: /jobs_and_benefits
+    - name: Contact us
+      link: /contact
