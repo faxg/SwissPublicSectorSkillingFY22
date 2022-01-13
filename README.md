@@ -10,6 +10,10 @@ Ihre Ansprechpartner:
   - Cyril Hollenstein <Cyril.Hollenstein@microsoft.com>
 
 
+### Digicomp Website
+Kursinformationen, Termine etc. zu den Microsoft-Schulungen bei __Digicomp__: https://microsoft.digicomp.ch
+
+__Achtung__: Bitte nutzen Sie zur Kursbuchung das offizielle __Booking-File__ von Digicomp.
 
 ### Umfragen zur Terminplanung
 
