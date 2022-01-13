@@ -17,8 +17,7 @@ __Achtung__: Bitte nutzen Sie zur Kursbuchung das offizielle __Booking-File__ vo
 
 ### Umfragen zur Terminplanung
 
-Bitte teilen sie uns ihre Wochenpräferenzen mit für die bessere Planung der Microsoft Fachvorträge:
-https://forms.office.com/r/rDQn2uiDEY
+Bitte melden Sie sich bei __Herrn Fässler__ für die Doodle Umfragen
 
 
 ### Zertifizierungen
