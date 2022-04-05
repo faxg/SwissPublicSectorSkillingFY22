@@ -20,9 +20,6 @@ __Achtung__: Bitte nutzen Sie zur Kursbuchung das offizielle __Booking-File__ vo
 Bitte melden Sie sich bei __Herrn Fässler__ für die Doodle Umfragen
 
 
-### Cloud Skills Challenge - März 2022
-Registrieren Sie sich jetzt für die kostenlose "Cloud Skills Challenge" im März:
-https://docs.microsoft.com/de-de/learn/challenges?id=02216ea4-cc72-451b-b50d-72a9d6267547
 
 ### Zertifizierungen
 Sie finden die Prüfungsanforderungen, sowie die Anmeldelinks zu den Zertifizierungsprüfungen auf den Folgenden Seiten. 
